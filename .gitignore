@@ -15,7 +15,3 @@
 .DS_Store
 .prettierignore
 
-# Preventing pictures
-*.jpg
-*.png
-*.jpeg
