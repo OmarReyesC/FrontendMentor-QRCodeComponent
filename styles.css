@@ -16,7 +16,19 @@ html {
 }
 
 body {
+    height: 100vh;
     background-color: var(--slate-300);
+}
+main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
 .content {
     width: min-content;
@@ -53,4 +65,10 @@ body {
 .content__text p {
     font-size: 1.5rem;
     color: var(--slate-500);
+}
+
+.attribution {
+    left: 0;
+    right: 0;
+    margin: 0 auto;
 }
