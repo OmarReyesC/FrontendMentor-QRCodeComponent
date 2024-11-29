@@ -58,7 +58,7 @@ footer {
     padding: 0 1.6rem;
     text-align: center;
 }
-.content__text h2 {
+.content__text h1 {
     font-size: 2.2rem;
     color: var(--slate-900);
 }
